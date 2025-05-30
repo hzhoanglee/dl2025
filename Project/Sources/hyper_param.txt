@@ -1,0 +1,13 @@
+depth = 1
+size = 28
+maps = 4
+k_size = 5
+neurons = 32
+classes = 10
+
+batch = 16
+lr = 0.008
+epochs = 25
+
+train_max = 1500
+test_max = 600
